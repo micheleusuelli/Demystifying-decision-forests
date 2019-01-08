@@ -1,0 +1,35 @@
+{
+  
+  "dir_charts": ["../charts"], // output charts directory
+  
+  //"csv_in": ["../data-raw/sample_1.csv"], // input data
+  //"xdf_sample": ["../data-prepared/sample_1.xdf"], // processed xdf
+ 
+
+  "csv_in": ["../data-raw/sample_2.csv"], // input data
+  "xdf_sample": ["../data-prepared/sample_2.xdf"], // processed xdf
+ 
+  //"csv_in": ["../data-raw/full.csv"], // input data
+  //"xdf_sample": ["../data-prepared/full.xdf"], // processed xdf
+ 
+ 
+  
+  //"csv_granular": ["../data-raw/granular_sample_2.csv"], // input data
+  //"xdf_granular": ["../data-prepared/granular_2.xdf"], // processed xdf
+   
+  "csv_granular": ["../data-raw/granular_full.csv"], // input data
+  "xdf_granular": ["../data-prepared/granular_full.xdf"], // processed xdf
+  
+  
+  
+  "csv_severity": ["../data-raw/r_names_sev_4.csv"], // input data
+  "rdata_severity": ["../data-prepared/r_names_sev.rData"],
+  
+  
+  "csv_preprocess": ["../data-raw/preprocess_3.csv"], // input data
+  
+  
+  "xdf_tmp": ["../data-prepared/tmp.xdf"],
+  "rdata_sample": ["../data-prepared/sample.rData"]
+
+}

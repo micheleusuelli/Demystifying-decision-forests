@@ -1,0 +1,29 @@
+
+Wordcount-based clustering
+========================================================
+author: Michele Usuelli
+date: 2016-01-29
+width: 1680
+height: 1050
+css: css/custom.css
+
+
+```{r include=FALSE}
+knitr::opts_chunk$set(cache = FALSE)
+```
+
+```{r rhdfs, cache=FALSE, include=FALSE}
+read_chunk("1-1-extract-paths-tree.R")
+```
+
+
+
+
+Overview
+====
+
+
+```{r config}
+```
+
+

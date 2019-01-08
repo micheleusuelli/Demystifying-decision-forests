@@ -1,0 +1,12 @@
+data.table
+dplyr
+tidyr
+ggplot2
+GGally
+jsonlite
+readxl
+shiny
+ggdendro
+CORElearn
+rpart
+rpart.plot
